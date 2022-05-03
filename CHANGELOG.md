@@ -1,3 +1,10 @@
+## 1.7.1-beta.19 (2022-05-03)
+
+
+### Features
+
+* initial commit ([fe3a230](https://github.com/jorgemasta/storefront-demo/commit/fe3a2300441581f108e8a1947509824a65f331e1))
+
 ## 1.7.1-beta.9 (2022-04-27)
 
 ## 1.7.1-beta.7 (2022-01-11)
