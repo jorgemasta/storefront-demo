@@ -1,0 +1,15 @@
+dist
+node_modules
+
+*.js
+!.eslintrc.js
+*.d.ts
+/address
+/api
+/cart
+/commerce
+/products
+/scripts
+/wishlist
+.env
+.idea
