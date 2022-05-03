@@ -4,6 +4,7 @@ node_modules
 *.js
 !.eslintrc.js
 *.d.ts
+!src/schema.d.ts
 /address
 /api
 /cart
