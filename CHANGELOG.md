@@ -1,5 +1,17 @@
 
 
+## [1.9.3-beta.2](https://github.com/jorgemasta/storefront-demo/compare/v1.9.3-beta.1...v1.9.3-beta.2) (2022-05-05)
+
+
+### Bug Fixes
+
+* solve auth error ([8c0c4b6](https://github.com/jorgemasta/storefront-demo/commit/8c0c4b689ab348c4649be3f952bd81a618e7a06b))
+
+
+### Features
+
+* add signup ([26cabab](https://github.com/jorgemasta/storefront-demo/commit/26cabab8696f131c5f48db152ebd6c69bf06a445))
+
 ## [1.9.3-beta.1](https://github.com/jorgemasta/storefront-demo/compare/v1.9.3-beta.0...v1.9.3-beta.1) (2022-05-05)
 
 
