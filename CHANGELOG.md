@@ -1,3 +1,25 @@
+
+
+# [1.8.0-beta.0](https://github.com/jorgemasta/storefront-demo/compare/1.7.1...v1.8.0-beta.0) (2022-05-05)
+
+
+### Features
+
+* return data from use add address ([1fff6d9](https://github.com/jorgemasta/storefront-demo/commit/1fff6d9568cbef328719abd5b14499b913d2ea6f))
+
+
+
+## [1.7.1](https://github.com/jorgemasta/storefront-demo/compare/1.7.1-beta.19...1.7.1) (2022-05-03)
+
+
+
+## [1.7.1-beta.19](https://github.com/jorgemasta/storefront-demo/compare/fe3a2300441581f108e8a1947509824a65f331e1...1.7.1-beta.19) (2022-05-03)
+
+
+### Features
+
+* initial commit ([fe3a230](https://github.com/jorgemasta/storefront-demo/commit/fe3a2300441581f108e8a1947509824a65f331e1))
+
 ## [1.7.1](https://github.com/jorgemasta/storefront-demo/compare/1.7.1-beta.19...1.7.1) (2022-05-03)
 
 ## 1.7.1-beta.19 (2022-05-03)
