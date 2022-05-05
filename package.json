@@ -1,6 +1,6 @@
 {
   "name": "storefront-data-hooks-jorgemasta",
-  "version": "1.8.0",
+  "version": "1.9.1-beta.0",
   "main": "index.js",
   "repository": "jorgemasta/storefront-demo",
   "license": "MIT",

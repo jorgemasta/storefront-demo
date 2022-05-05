@@ -17,10 +17,14 @@ export const fetcher: HookFetcher<null, LoginBody> = (
   { email, password },
   fetch
 ) => {
-  if (!(email && password)) {
+  if (!email) {
     throw new CommerceError({
-      message:
-        'A first name, last name, email and password are required to login',
+      message: 'A email is required to login',
+    })
+  }
+  if (!password) {
+    throw new CommerceError({
+      message: 'A password is required to login',
     })
   }
 
@@ -36,11 +40,14 @@ export const fetcher: HookFetcher<null, LoginBody> = (
 }
 
 export function extendHook(customFetcher: typeof fetcher) {
-
-  function useLogin(): (input: LoginInput) => Promise<null>;
-  function useLogin<T extends FetcherOptions>({ options }: { options: FetcherOptions } ): T extends FetcherOptions ?
-    (input: unknown) => Promise<null> :
-    (input: LoginInput) => Promise<null>;
+  function useLogin(): (input: LoginInput) => Promise<null>
+  function useLogin<T extends FetcherOptions>({
+    options,
+  }: {
+    options: FetcherOptions
+  }): T extends FetcherOptions
+    ? (input: unknown) => Promise<null>
+    : (input: LoginInput) => Promise<null>
 
   function useLogin(params?: { options: FetcherOptions }) {
     const options = params?.options || {}

@@ -1,5 +1,17 @@
 
 
+## [1.9.1-beta.0](https://github.com/jorgemasta/storefront-demo/compare/v1.9.0-beta.0...v1.9.1-beta.0) (2022-05-05)
+
+
+
+# [1.8.0](https://github.com/jorgemasta/storefront-demo/compare/v1.9.0-beta.0...v1.9.1-beta.0) (2022-05-05)
+
+# [1.9.0-beta.0](https://github.com/jorgemasta/storefront-demo/compare/v1.8.0-beta.0...v1.9.0-beta.0) (2022-05-05)
+
+
+### Features
+
+* improve login ux ([1b083a5](https://github.com/jorgemasta/storefront-demo/commit/1b083a5ecc55943d13792eadf5ecc9e79d16d1d8))
 # [1.8.0](https://github.com/jorgemasta/storefront-demo/compare/v1.8.0-beta.0...v1.8.0) (2022-05-05)
 
 # [1.8.0-beta.0](https://github.com/jorgemasta/storefront-demo/compare/1.7.1...v1.8.0-beta.0) (2022-05-05)
