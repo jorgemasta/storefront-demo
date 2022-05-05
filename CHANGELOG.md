@@ -1,5 +1,12 @@
 
 
+## [1.9.6-beta.1](https://github.com/jorgemasta/storefront-demo/compare/v1.9.6-beta.0...v1.9.6-beta.1) (2022-05-05)
+
+
+### Bug Fixes
+
+* remove it ([4a7c0ca](https://github.com/jorgemasta/storefront-demo/commit/4a7c0ca4d7ca78d1c5ba6b0f4fef8657f3bbe7f7))
+
 ## [1.9.6-beta.0](https://github.com/jorgemasta/storefront-demo/compare/v1.9.5-beta.0...v1.9.6-beta.0) (2022-05-05)
 
 
