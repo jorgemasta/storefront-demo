@@ -1,5 +1,54 @@
 
 
+## [1.9.2](https://github.com/jorgemasta/storefront-demo/compare/1.7.1...v1.9.2) (2022-05-05)
+
+
+
+## [1.9.2-beta.1](https://github.com/jorgemasta/storefront-demo/compare/1.7.1...v1.9.2) (2022-05-05)
+
+
+### Features
+
+* improve ux 2 ([c3637d6](https://github.com/jorgemasta/storefront-demo/commit/c3637d6b2c20c0f13cb12157a6c34ea2e93ee206))
+
+
+
+## [1.9.2-beta.0](https://github.com/jorgemasta/storefront-demo/compare/1.7.1...v1.9.2) (2022-05-05)
+
+
+
+## [1.9.1](https://github.com/jorgemasta/storefront-demo/compare/1.7.1...v1.9.2) (2022-05-05)
+
+
+
+## [1.9.1-beta.0](https://github.com/jorgemasta/storefront-demo/compare/1.7.1...v1.9.2) (2022-05-05)
+
+
+
+# [1.8.0](https://github.com/jorgemasta/storefront-demo/compare/1.7.1...v1.9.2) (2022-05-05)
+
+
+
+# [1.9.0-beta.0](https://github.com/jorgemasta/storefront-demo/compare/1.7.1...v1.9.2) (2022-05-05)
+
+
+### Features
+
+* improve login ux ([1b083a5](https://github.com/jorgemasta/storefront-demo/commit/1b083a5ecc55943d13792eadf5ecc9e79d16d1d8))
+
+
+
+# [1.8.0](https://github.com/jorgemasta/storefront-demo/compare/1.7.1...v1.9.2) (2022-05-05)
+
+
+
+# [1.8.0-beta.0](https://github.com/jorgemasta/storefront-demo/compare/1.7.1...v1.9.2) (2022-05-05)
+
+
+### Features
+
+* return data from use add address ([1fff6d9](https://github.com/jorgemasta/storefront-demo/commit/1fff6d9568cbef328719abd5b14499b913d2ea6f))
+
 ## [1.9.2-beta.1](https://github.com/jorgemasta/storefront-demo/compare/v1.9.2-beta.0...v1.9.2-beta.1) (2022-05-05)
 
 
