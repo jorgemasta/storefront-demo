@@ -1,5 +1,7 @@
 
 
+# [1.8.0](https://github.com/jorgemasta/storefront-demo/compare/v1.8.0-beta.0...v1.8.0) (2022-05-05)
+
 # [1.8.0-beta.0](https://github.com/jorgemasta/storefront-demo/compare/1.7.1...v1.8.0-beta.0) (2022-05-05)
 
 
