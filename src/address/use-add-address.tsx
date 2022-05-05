@@ -52,9 +52,9 @@ export function extendHook(customFetcher: typeof fetcher) {
 
     return useCallback(
       async (input: AddAddressInput) => {
-        const data = await fn(input)
+        const myData = await fn(input)
         await revalidate()
-        return data
+        return myData
       },
       [fn]
     )
