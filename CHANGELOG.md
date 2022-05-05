@@ -1,5 +1,12 @@
 
 
+## [1.9.6-beta.2](https://github.com/jorgemasta/storefront-demo/compare/v1.9.6-beta.1...v1.9.6-beta.2) (2022-05-05)
+
+
+### Features
+
+* new feature ([87f01cf](https://github.com/jorgemasta/storefront-demo/commit/87f01cf29927ca80b929899546c2772fa4ac5b0f))
+
 ## [1.9.6-beta.1](https://github.com/jorgemasta/storefront-demo/compare/v1.9.6-beta.0...v1.9.6-beta.1) (2022-05-05)
 
 
