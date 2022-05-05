@@ -36,7 +36,7 @@ jobs:
         env:
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
 
-      - run: npm run release -- --ci --github.release'
+      - run: npm run release -- --ci --github.release --git.tagMatch='[0-9]*\\.[0-9]*\\.[0-9]*'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
