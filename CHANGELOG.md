@@ -1,5 +1,7 @@
 
 
+## [1.9.4](https://github.com/jorgemasta/storefront-demo/compare/v1.9.3...v1.9.4) (2022-05-05)
+
 ## [1.9.3](https://github.com/jorgemasta/storefront-demo/compare/1.7.1...v1.9.3) (2022-05-05)
 
 
