@@ -22,6 +22,7 @@
 
 
 ## [1.9.2-beta.1](https://github.com/jorgemasta/storefront-demo/compare/1.7.1...v1.9.3) (2022-05-05)
+## [1.9.6-beta.2](https://github.com/jorgemasta/storefront-demo/compare/v1.9.6-beta.1...v1.9.6-beta.2) (2022-05-05)
 
 
 ### Features
@@ -60,11 +61,43 @@
 
 
 # [1.8.0-beta.0](https://github.com/jorgemasta/storefront-demo/compare/1.7.1...v1.9.3) (2022-05-05)
+* new feature ([87f01cf](https://github.com/jorgemasta/storefront-demo/commit/87f01cf29927ca80b929899546c2772fa4ac5b0f))
+
+## [1.9.6-beta.1](https://github.com/jorgemasta/storefront-demo/compare/v1.9.6-beta.0...v1.9.6-beta.1) (2022-05-05)
+
+
+### Bug Fixes
+
+* remove it ([4a7c0ca](https://github.com/jorgemasta/storefront-demo/commit/4a7c0ca4d7ca78d1c5ba6b0f4fef8657f3bbe7f7))
+
+## [1.9.6-beta.0](https://github.com/jorgemasta/storefront-demo/compare/v1.9.5-beta.0...v1.9.6-beta.0) (2022-05-05)
+
+
+### Bug Fixes
+
+* solves ([1b7a2aa](https://github.com/jorgemasta/storefront-demo/commit/1b7a2aa2f6a547aa2620256478889c1422e4de78))
+
+## [1.9.5-beta.0](https://github.com/jorgemasta/storefront-demo/compare/v1.9.4-beta.0...v1.9.5-beta.0) (2022-05-05)
+
+
+### Bug Fixes
+
+* quick fix ([df09026](https://github.com/jorgemasta/storefront-demo/commit/df090260a81eac07afd192734e2d351db54000cb))
+
+## [1.9.4-beta.0](https://github.com/jorgemasta/storefront-demo/compare/v1.9.3-beta.2...v1.9.4-beta.0) (2022-05-05)
+
+## [1.9.3-beta.2](https://github.com/jorgemasta/storefront-demo/compare/v1.9.3-beta.1...v1.9.3-beta.2) (2022-05-05)
+
+
+### Bug Fixes
+
+* solve auth error ([8c0c4b6](https://github.com/jorgemasta/storefront-demo/commit/8c0c4b689ab348c4649be3f952bd81a618e7a06b))
 
 
 ### Features
 
 * return data from use add address ([1fff6d9](https://github.com/jorgemasta/storefront-demo/commit/1fff6d9568cbef328719abd5b14499b913d2ea6f))
+* add signup ([26cabab](https://github.com/jorgemasta/storefront-demo/commit/26cabab8696f131c5f48db152ebd6c69bf06a445))
 
 ## [1.9.3-beta.1](https://github.com/jorgemasta/storefront-demo/compare/v1.9.3-beta.0...v1.9.3-beta.1) (2022-05-05)
 
