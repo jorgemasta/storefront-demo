@@ -1,3 +1,5 @@
+## [1.7.1](https://github.com/jorgemasta/storefront-demo/compare/1.7.1-beta.19...1.7.1) (2022-05-03)
+
 ## 1.7.1-beta.19 (2022-05-03)
 
 
