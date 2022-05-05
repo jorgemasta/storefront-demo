@@ -19,14 +19,12 @@ export const fetcher: HookFetcher<null, LoginBody> = (
 ) => {
   if (!email) {
     throw new CommerceError({
-      message:
-        'A first name, last name, email and password are required to login',
+      message: 'A email is required to login',
     })
   }
   if (!password) {
     throw new CommerceError({
-      message:
-        'A first name, last name, email and password are required to login',
+      message: 'A password is required to login',
     })
   }
 
