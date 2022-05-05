@@ -36,6 +36,6 @@ jobs:
         env:
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
 
-      - run: npm run release -- --preRelease=beta
+      - run: npm run release -- --ci --preRelease=beta
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
