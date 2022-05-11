@@ -24,6 +24,7 @@ export const fetcher: HookFetcher<null, LoginBody> = (
     })
   }
   if (!(email && password)) {
+    // lol
     throw new CommerceError({
       message:
         'A first name, last name, email and password are required to login',
