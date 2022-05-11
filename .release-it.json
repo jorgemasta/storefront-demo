@@ -1,6 +1,6 @@
 {
   "git": {
-    "commitMessage": "chore: release ${version}",
+    "commitMessage": "chore: release ${version} [no ci]",
     "tagName": "v${version}"
   },
   "plugins": {
