@@ -96,9 +96,7 @@
 
 * quick fix ([df09026](https://github.com/jorgemasta/storefront-demo/commit/df090260a81eac07afd192734e2d351db54000cb))
 
-## [1.9.4-beta.0](https://github.com/jorgemasta/storefront-demo/compare/v1.9.3-beta.2...v1.9.4-beta.0) (2022-05-05)
-
-## [1.9.3-beta.2](https://github.com/jorgemasta/storefront-demo/compare/v1.9.3-beta.1...v1.9.3-beta.2) (2022-05-05)
+My modified changelog
 
 
 ### Bug Fixes
