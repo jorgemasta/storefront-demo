@@ -1,5 +1,36 @@
 
 
+## [1.9.9](https://github.com/jorgemasta/storefront-demo/compare/v1.9.8...v1.9.9) (2022-05-11)
+
+
+
+## [1.9.8](https://github.com/jorgemasta/storefront-demo/compare/v1.9.8...v1.9.9) (2022-05-11)
+
+
+
+## [1.9.7](https://github.com/jorgemasta/storefront-demo/compare/v1.9.8...v1.9.9) (2022-05-11)
+
+
+
+## [1.9.6](https://github.com/jorgemasta/storefront-demo/compare/v1.9.8...v1.9.9) (2022-05-05)
+
+
+
+## [1.9.4](https://github.com/jorgemasta/storefront-demo/compare/v1.9.8...v1.9.9) (2022-05-05)
+
+
+
+## [1.9.3](https://github.com/jorgemasta/storefront-demo/compare/v1.9.8...v1.9.9) (2022-05-05)
+
+
+
+## [1.9.6-beta.3](https://github.com/jorgemasta/storefront-demo/compare/v1.9.8...v1.9.9) (2022-05-11)
+
+
+### Features
+
+* add simpl ([feff679](https://github.com/jorgemasta/storefront-demo/commit/feff679ac041d668e55d7681ef993c354fd90978))
+
 ## [1.9.8](https://github.com/jorgemasta/storefront-demo/compare/v1.9.7...v1.9.8) (2022-05-11)
 
 Modified changelog
