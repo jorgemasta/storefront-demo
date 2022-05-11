@@ -2,6 +2,8 @@
 
 ## [1.9.8](https://github.com/jorgemasta/storefront-demo/compare/v1.9.7...v1.9.8) (2022-05-11)
 
+Modified changelog
+
 ## [1.9.7](https://github.com/jorgemasta/storefront-demo/compare/v1.9.6...v1.9.7) (2022-05-11)
 
 ## [1.9.6](https://github.com/jorgemasta/storefront-demo/compare/v1.9.6-beta.2...v1.9.6) (2022-05-05)
