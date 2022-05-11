@@ -1,5 +1,12 @@
 
 
+## [1.9.6-beta.3](https://github.com/jorgemasta/storefront-demo/compare/v1.9.6-beta.2...v1.9.6-beta.3) (2022-05-11)
+
+
+### Features
+
+* add simpl ([feff679](https://github.com/jorgemasta/storefront-demo/commit/feff679ac041d668e55d7681ef993c354fd90978))
+
 ## [1.9.6-beta.2](https://github.com/jorgemasta/storefront-demo/compare/v1.9.6-beta.1...v1.9.6-beta.2) (2022-05-05)
 
 
